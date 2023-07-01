@@ -15,3 +15,9 @@ Once your click on Execute the injection. It will tell you if the application is
 ![image](https://github.com/Paras-Ahuja/SQL_Injector/assets/49347015/c113f2e7-c23f-47fc-864c-7241aabb3792)
 
 run mysqlDB.js to start the connection between mysql server (XAMPP was used in this case) and  HTML login page
+URL used:http://localhost:3000/login?username=abc&password=def
+
+Software Used:
+XAMPP
+Eclipse
+Visual Code
